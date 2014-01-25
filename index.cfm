@@ -32,5 +32,5 @@ If you leave any of them blank except cc and bcc, the system will default to the
 
 <p>&nbsp;</p>
 <h2>Project Home</h2>
-<a href="https://github.com/cathyshapiro/developmentemails">https://github.com/cathyshapiro/developmentemails</a> 		</div>
+<a href="https://github.com/cshapiro/developmentemails">https://github.com/cathyshapiro/developmentemails</a> 		</div>
 	</div>
